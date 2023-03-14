@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "Maliit ang text";
+echo $txt = "Hello world!";
+$x = 5;
+$y = 10.5;
+?>
+</body>
+</html>
